@@ -7,8 +7,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <a
 href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulHqBNcsk_zeuy1RTKePPcg">
 <img
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
-0THUMBNAIL-2.png"> </a>
+src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE THUMBNAIL-2.png"> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Neural Networks
